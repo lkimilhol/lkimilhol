@@ -2,8 +2,6 @@
 
 [![lkimilhol's github stats](https://github-readme-stats.vercel.app/api?username=lkimilhol)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align=center>
-</div>
 
 <!--
 **lkimilhol/lkimilhol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
