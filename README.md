@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![lkimilhol's github stats](https://github-readme-stats.vercel.app/api?username=lkimilhol)](https://github.com/anuraghazra/github-readme-stats)
+[![lkimilhol's github stats](https://github-readme-stats.vercel.app/api?username=lkimilhol&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
